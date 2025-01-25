@@ -50,4 +50,5 @@ This project is a simplified clone of the Gemini conversational AI interface, bu
 
 5.  Open your browser at `http://localhost:3000`.
 
-## Project Structure
+## Note
+#### **use your own gemini api** 
